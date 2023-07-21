@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Coding Practice Projects<b>
-
-           Learning Python (VSCode)
+  -[Learning Python (VSCode)](https://github.com/Meredithnbayliss/learning_python)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Meredithnbayliss/osticket-prereqs)
