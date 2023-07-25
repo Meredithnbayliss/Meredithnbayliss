@@ -4,7 +4,7 @@
 
 - <b>Coding Practice Projects<b>
 
-  - [Learning Python (VSCode)](https://github.com/Meredithnbayliss/learning_python)
+  - [Learning Python (Pycharm)](https://github.com/Meredithnbayliss/learning_python)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Meredithnbayliss/configure-ad)
