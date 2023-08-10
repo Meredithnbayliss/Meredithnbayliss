@@ -3,6 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+
+  - [Azure Sentinel (SIEM) Mapping and Monitoring Global Cyber Attacks](https://github.com/Meredithnbayliss/azure-sentinel-cyberattacks)
+
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Meredithnbayliss/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Meredithnbayliss/azure-network-protocols)
 
