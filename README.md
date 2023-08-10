@@ -5,11 +5,9 @@
 - <b>Microsoft Azure</b>
 
   - [Azure Sentinel (SIEM) Mapping and Monitoring Global Cyber Attacks](https://github.com/Meredithnbayliss/azure-sentinel-cyberattacks)
-
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Meredithnbayliss/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Meredithnbayliss/azure-network-protocols)
-
-- <b>osTicket (Help Desk Ticketing System)</b>
+  - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Meredithnbayliss/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Meredithnbayliss//post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Meredithnbayliss/ticket-lifecycle)
